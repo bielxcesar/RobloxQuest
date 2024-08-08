@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(77, 77, 77);
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    margin-top: 2%;
+    margin-right:20% ;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 255, 255, 0.616);
+
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 255, 255, 0.521);
+
+}
+
+button{ 
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 10px;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 15%;
+    margin-top: 2%;
+    margin-right:2% ;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: none; 
+}
+
+.cavaloRindo{
+    margin-top: 2%;
+    margin: right 100%;
+    text-align:center;
+
+}
+
+.pato{
+    margin-top: 2%;
+    text-align:center;
+    
+}
+
+.Robloxdance{
+    
+
+}
